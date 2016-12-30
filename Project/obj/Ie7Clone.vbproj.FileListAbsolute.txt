@@ -1,0 +1,108 @@
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\bin\Debug\Ie7Clone.exe.config
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.xml
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.pdb
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\bin\Debug\Ie7Clone.exe
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\bin\Debug\Ie7Clone.pdb
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\bin\Debug\Ie7Clone.xml
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmAbout.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmAddRSS.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmAddSearchProvider.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmAllBrowsers.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmBrowser.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmCookieViewer.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmDetectRSS.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmDocExplorer.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmDownload.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmError.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmHistory.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmImage.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmMain.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmPhising.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmProperties.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmRSS.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmScrapeImages.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmSecInfo.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.frmSettings.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.TabControl.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.Resources.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.CapBrowser.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.InfoBar.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.Ruler.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.vbproj.GenerateResource.Cache
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\VB_NET_Web204585212007\Ie7Clone\obj\Debug\Ie7Clone.exe
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\Ie7Clone.exe.config
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.xml
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.pdb
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\Ie7Clone.exe
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\Ie7Clone.pdb
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\Ie7Clone.xml
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmAbout.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmAddRSS.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmBrowser.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmCookieViewer.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmDetectRSS.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmDownload.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmError.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmHistory.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmImage.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmMain.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmPhising.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmProperties.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmRSS.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmScrapeImages.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmSecInfo.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.frmSettings.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.TabControl.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.Resources.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.CapBrowser.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.InfoBar.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.Ruler.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.vbproj.GenerateResource.Cache
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.exe
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.Form1.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.Form2.resources
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Interop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Interop.SpeechLib.dll
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\Ie7Clone.vbproj.ResolveComReference.cache
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\obj\Debug\AxInterop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\Interop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\Interop.SpeechLib.dll
+D:\Documents and Settings\HP\My Documents\My Completed Downloads\Projects\main_browser\Ie7Clone\bin\Debug\AxInterop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\Ie7Clone.exe.config
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.exe
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.xml
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.pdb
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\Ie7Clone.exe
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\Ie7Clone.pdb
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\Ie7Clone.xml
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\Interop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\Interop.SpeechLib.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\bin\Debug\AxInterop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Interop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Interop.SpeechLib.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\AxInterop.AgentObjects.dll
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.vbproj.ResolveComReference.cache
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.Form2.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.Form1.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmAbout.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmAddRSS.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmBrowser.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmCookieViewer.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmDetectRSS.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmDownload.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmError.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmHistory.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmImage.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmMain.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmPhising.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmRSS.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.frmSettings.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.TabControl.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.Resources.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.CapBrowser.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.InfoBar.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.Ruler.resources
+D:\Documents and Settings\HP\My Documents\Visual Studio 2005\Projects\main browser\Ie7Clone\obj\Debug\Ie7Clone.vbproj.GenerateResource.Cache

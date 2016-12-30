@@ -1,0 +1,57 @@
+F:\BE Project\main browser\main browser\Jarvis\bin\Debug\JarvisExplorer.exe.config
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\Interop.SpeechLib.dll
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\Jarvis.vbproj.ResolveComReference.cache
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.exe
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.xml
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.pdb
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.Form2.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.Form1.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmAbout.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmBrowser.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmCookieViewer.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmDetectRSS.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmDownload.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmError.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmHistory.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmImage.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmMain.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmPhising.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmRSS.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmSettings.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmAddRSS.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.TabControl.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.UserControl1.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.Resources.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.InfoBar.resources
+F:\BE Project\main browser\main browser\Jarvis\obj\Debug\Jarvis.vbproj.GenerateResource.Cache
+F:\BE Project - Copy\main browser\main browser\Jarvis\bin\Debug\JarvisExplorer.exe.config
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\Interop.SpeechLib.dll
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\Jarvis.vbproj.ResolveComReference.cache
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.xml
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.pdb
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\ResolveAssemblyReference.cache
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.Form2.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.Form1.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmAbout.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmBrowser.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmCookieViewer.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmDetectRSS.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmDownload.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmError.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmHistory.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmImage.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmMain.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmPhising.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmRSS.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmSettings.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.frmAddRSS.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.TabControl.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.UserControl1.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.Resources.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.InfoBar.resources
+F:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\Jarvis.vbproj.GenerateResource.Cache
+E:\BE Project - Copy\main browser\main browser\Jarvis\bin\Debug\JarvisExplorer.exe.config
+E:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\Interop.SpeechLib.dll
+E:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\Jarvis.vbproj.ResolveComReference.cache
+E:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.xml
+E:\BE Project - Copy\main browser\main browser\Jarvis\obj\Debug\JarvisExplorer.pdb
